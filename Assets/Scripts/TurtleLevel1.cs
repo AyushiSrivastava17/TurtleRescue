@@ -16,11 +16,12 @@ public class TurtleLevel1 : MonoBehaviour
     void Update()
     {
 
-        if (transform.position.y >= 0.1820 && transform.position.y < 4)
+        if (transform.position.y >= 0.1820 && transform.position.y < 6)
         {
             transform.Translate(0, speed * Time.deltaTime, 0);
 
         }
-       
+
     }
+
 }
