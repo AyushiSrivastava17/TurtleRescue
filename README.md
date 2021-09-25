@@ -1,4 +1,4 @@
-# TurtleRescue
+# TurtleRescue - An award-winning app!
 
 ## Overview
 Turtle Rescue is a mobile game designed to illustrate the damaging effects of climate change on marine life and beaches. The user plays as a newborn turtle, attempting to navigate a beach and ocean ravaged by climate change. The game is designed to be able to be run on Android and iOS as well. 
